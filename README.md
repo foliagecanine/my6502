@@ -3,7 +3,7 @@
 
 Thanks to Ben Eater (https://www.youtube.com/c/beneater) for the base project, some scripts, and the inspiration.
 
-![BE6502 Dino Game GIF](RESOURCE/BE6502Game.gif)
+![BE6502 Dino Game GIF](RESOURCE/BE6502Dino.gif)
 
 ## Hardware Requirements
 This code will work on BE6502 computers that have been built up to the "Interrupt handling" video.  
