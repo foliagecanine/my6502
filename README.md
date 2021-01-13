@@ -17,10 +17,10 @@ The code in this repository is compiled with VASM oldstyle. You can download VAS
 
 Here are the files/folders in this project:
 ```
-LIBS                : Libraries I wrote for the 6502.
-PROJECTS            : Projects utilizing libraries from the LIBS folder.
+LIBS				: Libraries I wrote for the 6502.
+PROJECTS			: Projects utilizing libraries from the LIBS folder.
 RESOURCE			: Images for projects used by the README
-6502AssemblyUDL.xml : A Notepad++ User Defined Language file I made for 6502 assembly.
+6502AssemblyUDL.xml	: A Notepad++ User Defined Language file I made for 6502 assembly.
 ```
 Individual project files and libraries will have description comments at the top.
 
